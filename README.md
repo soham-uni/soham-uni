@@ -4,8 +4,7 @@
 
 
 # 💫 About Me:
-Hi! I'm Soham Adak, an undergraduate engineering student at IIT Roorkee with a strong interest in Competitive Programming, Machine Learning, and Full-Stack Web Development. I enjoy building efficient systems, solving algorithmic challenges, and working on projects that blend theory with real-world impact.<br><br>🔭 I’m currently working on ML-based projects, web applications, and competitive programming practice.<br>👯 I’m looking to collaborate on open-source projects related to ML, backend systems, and developer tools.<br>🤝 I’m looking for help with advanced machine learning concepts, scalable system design, and interview preparation.<br>🌱 I’m currently learning deep learning, system design, and DevOps fundamentals.<br>💬 Ask me about competitive programming, full-stack development, ML, and building tech projects from scratch.<br><br>
-
+Hi! I'm Soham Adak, an undergraduate engineering student at IIT Roorkee with a strong interest in Competitive Programming, Machine Learning, and Full-Stack Web Development. I enjoy building efficient systems, solving algorithmic challenges, and working on projects that blend theory with real-world impact. I’m currently working on ML-based projects, web applications, and competitive programming practice.<br>
 ## 🧮 Competitive Programming
 <p align="center">
   <a href="https://codeforces.com/profile/anaban_snipe">
